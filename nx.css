@@ -1,0 +1,11 @@
+h1 {
+  color: rgba(0,200,100, 0.8);
+}
+h4 {
+  background: rgb(255,100,80)
+}
+body {
+  background: url(http://www.spoon-tamago.com/wp-content/uploads/2017/08/hell-in-japanese-art-5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
